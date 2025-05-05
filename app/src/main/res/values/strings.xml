@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarjeta de Presentacion</string>
+    <string name="correo_txt">✉️ danny@pninformatica.com.py</string>
+    <string name="red_social_txt">🔗 @danny_candia</string>
+    <string name="telefono_txt">📞 +595 982853640</string>
+    <string name="desarrollador_android_txt">Desarrollador Android Extraordinario</string>
+    <string name="nombre_txt">Danny Candia</string>
+    <string name="desarrollador_android_texto">Desarrollador Android Extraordinario</string>
+    <string name="nombre_texto">Danny Candia</string>
+</resources>
