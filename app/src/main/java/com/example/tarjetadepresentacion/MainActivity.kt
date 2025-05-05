@@ -102,7 +102,7 @@ fun TarjetaPresentacion() {
                     tint = Color(0xFF006400)
                 )
                 Spacer(modifier = Modifier.width(8.dp))
-                Text(text = "+595 982853640", fontSize = 14.sp)
+                Text(text = stringResource(R.string.nro_telefono_text), fontSize = 14.sp)
             }
             Row(
                 verticalAlignment = Alignment.CenterVertically,
@@ -114,7 +114,7 @@ fun TarjetaPresentacion() {
                     tint = Color(0xFF006400)
                 )
                 Spacer(modifier = Modifier.width(8.dp))
-                Text(text = "@danny_candia", fontSize = 14.sp)
+                Text(text = stringResource(R.string.usuario_red_social_text), fontSize = 14.sp)
             }
             Row(
                 verticalAlignment = Alignment.CenterVertically,
@@ -126,7 +126,7 @@ fun TarjetaPresentacion() {
                     tint = Color(0xFF006400)
                 )
                 Spacer(modifier = Modifier.width(8.dp))
-                Text(text = "danny@pninformatica.com.py", fontSize = 14.sp)
+                Text(text = stringResource(R.string.email_text), fontSize = 14.sp)
             }
         }
 
